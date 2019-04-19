@@ -1,4 +1,4 @@
-# bloc_p
+# Flutter movie booking app ui single screen
 
 A new Flutter project.
 
